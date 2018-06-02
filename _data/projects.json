@@ -2,7 +2,7 @@
 	{
 		"name": "Probando",
 		"image": "placeholder.jpg",
-		"url": "google.com",
+		"url": "http://www.google.com",
 		"date": "Jan 2014",
 		"tags": ["AngularJS","HTML-CSS"]
 	},
