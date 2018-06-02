@@ -2,14 +2,14 @@
 	{
 		"name": "Probando",
 		"image": "placeholder.jpg",
-		"url": "#",
+		"url": "google.com",
 		"date": "Jan 2014",
 		"tags": ["AngularJS","HTML-CSS"]
 	},
 	{
 		"name": "Proyecto 2",
 		"image": "placeholder.jpg",
-		"url": "#",
+		"url": "/2016-06-04-example-content.md",
 		"date": "May 2014",
 		"tags": ["Vanilla JS","HTML-CSS"]
 	},
