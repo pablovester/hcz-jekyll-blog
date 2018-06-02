@@ -1,24 +1,24 @@
 [
 	{
-		"name": "Cool project 1",
+		"name": "Probando",
 		"image": "placeholder.jpg",
 		"url": "#",
 		"date": "Jan 2014",
-		"tags": ["Angular JS","API"]
+		"tags": ["AngularJS","HTML-CSS"]
 	},
 	{
-		"name": "Cool project 2",
+		"name": "Proyecto 2",
 		"image": "placeholder.jpg",
 		"url": "#",
 		"date": "May 2014",
-		"tags": ["Android","PHP"]
+		"tags": ["Vanilla JS","HTML-CSS"]
 	},
 	{
 		"name": "Cool project 3",
 		"image": "placeholder.jpg",
 		"url": "#",
 		"date": "June 2014",
-		"tags": ["HTML","JQuery","PHP"]
+		"tags": ["HTML","JQuery"]
 	},
 	{
 		"name": "Cool project 4",
