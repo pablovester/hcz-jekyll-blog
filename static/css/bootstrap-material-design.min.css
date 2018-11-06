@@ -146,7 +146,7 @@ body .container .jumbotron-danger,body .container .well-danger,body .container-f
     color:rgba(255,255,255,.84)
 }
 .btn-group-raised .btn.btn-info,.btn-group-raised .input-group-btn .btn.btn-info,.btn.btn-fab.btn-info,.btn.btn-raised.btn-info,.input-group-btn .btn.btn-fab.btn-info,.input-group-btn .btn.btn-raised.btn-info{
-    background-color:#03a9f4;
+    background-color: cadetblue;
     color:rgba(255,255,255,.84)
 }
 .btn-group-raised .btn.btn-warning,.btn-group-raised .input-group-btn .btn.btn-warning,.btn.btn-fab.btn-warning,.btn.btn-raised.btn-warning,.input-group-btn .btn.btn-fab.btn-warning,.input-group-btn .btn.btn-raised.btn-warning{
@@ -177,7 +177,7 @@ body .container .jumbotron-danger,body .container .well-danger,body .container-f
     background-color:#59b75c
 }
 .btn-group-raised .btn:not(.btn-link).active.btn-info,.btn-group-raised .btn:not(.btn-link):active.btn-info,.btn-group-raised .btn:not(.btn-link):focus.btn-info,.btn-group-raised .btn:not(.btn-link):hover.btn-info,.btn-group-raised .input-group-btn .btn:not(.btn-link).active.btn-info,.btn-group-raised .input-group-btn .btn:not(.btn-link):active.btn-info,.btn-group-raised .input-group-btn .btn:not(.btn-link):focus.btn-info,.btn-group-raised .input-group-btn .btn:not(.btn-link):hover.btn-info,.btn.btn-raised:not(.btn-link).active.btn-info,.btn.btn-raised:not(.btn-link):active.btn-info,.btn.btn-raised:not(.btn-link):focus.btn-info,.btn.btn-raised:not(.btn-link):hover.btn-info,.input-group-btn .btn.btn-raised:not(.btn-link).active.btn-info,.input-group-btn .btn.btn-raised:not(.btn-link):active.btn-info,.input-group-btn .btn.btn-raised:not(.btn-link):focus.btn-info,.input-group-btn .btn.btn-raised:not(.btn-link):hover.btn-info{
-    background-color:#0fb2fc
+    background-color: teal
 }
 .btn-group-raised .btn:not(.btn-link).active.btn-warning,.btn-group-raised .btn:not(.btn-link):active.btn-warning,.btn-group-raised .btn:not(.btn-link):focus.btn-warning,.btn-group-raised .btn:not(.btn-link):hover.btn-warning,.btn-group-raised .input-group-btn .btn:not(.btn-link).active.btn-warning,.btn-group-raised .input-group-btn .btn:not(.btn-link):active.btn-warning,.btn-group-raised .input-group-btn .btn:not(.btn-link):focus.btn-warning,.btn-group-raised .input-group-btn .btn:not(.btn-link):hover.btn-warning,.btn.btn-raised:not(.btn-link).active.btn-warning,.btn.btn-raised:not(.btn-link):active.btn-warning,.btn.btn-raised:not(.btn-link):focus.btn-warning,.btn.btn-raised:not(.btn-link):hover.btn-warning,.input-group-btn .btn.btn-raised:not(.btn-link).active.btn-warning,.input-group-btn .btn.btn-raised:not(.btn-link):active.btn-warning,.input-group-btn .btn.btn-raised:not(.btn-link):focus.btn-warning,.input-group-btn .btn.btn-raised:not(.btn-link):hover.btn-warning{
     background-color:#ff6736
