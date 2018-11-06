@@ -1,9 +1,9 @@
-title: John Smith
-description: My Personal Blog
-author: John Smith
-logo: /hcz-jekyll-blog/static/img/avatar.png
-github: https://github.com/codeasashu
-about: Freelance developer
+title: Pablo Vester
+description: This is my portfolio!
+author: vester
+logo: /static/img/avatar.png
+github: https://github.com/pablovester
+about: Front End Developer
 
 baseurl: ""
 url: ""
