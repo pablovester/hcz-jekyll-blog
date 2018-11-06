@@ -1,18 +1,18 @@
 [
-  {
+  /*{
     "icon": "fa-facebook",
     "link": ""
-  },
+  },*/
   {
     "icon": "fa-twitter",
-    "link": ""
+    "link": "https://twitter.com/vester"
   },
   {
     "icon": "fa-linkedin",
-    "link": ""
+    "link": "https://linkedin.com/in/pablovester"
   },
   {
-    "icon": "fa-stack-exchange",
-    "link": ""
+    "icon": "fa-stack-overflow",
+    "link": "https://stackoverflow.com/users/8041218/vester"
   }
 ]
