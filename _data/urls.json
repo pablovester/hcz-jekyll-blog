@@ -17,18 +17,13 @@
   },
   {
     "text": "Resume",
-    "url": "/#",
+    "url": "https://www.cakeresume.com/vester",
     "icon": "fa-graduation-cap",
+    "target": _blank
   },
   {
     "text": "Github",
-    "url": "/#",
+    "url": "https://github.com/pablovester",
     "icon": "fa-github"
-  },
-  {
-    "text": "XML Feed",
-    "url": "/feed.xml",
-    "icon": "fa-feed",
-    "target": _blank
   }
 ]
