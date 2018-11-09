@@ -1424,7 +1424,7 @@ legend{
     border-radius:100%
 }
 .list-group .list-group-item .row-action-primary i,.list-group .list-group-item .row-picture i{
-    background:rgba(0,0,0,.25);
+    background:cadetblue;
     border-radius:100%;
     text-align:center;
     line-height:56px;
