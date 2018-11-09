@@ -28,7 +28,7 @@
   },
   {
     "text": "Contact",
-    "url": "hola@pablovester.com.ar",
+    "mailto": "hola@pablovester.com.ar",
     "icon": "fa-envelope"
   }
 ]
