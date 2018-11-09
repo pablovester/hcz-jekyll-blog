@@ -5,8 +5,8 @@ logo: /static/img/myface.png
 github: https://github.com/pablovester
 about: Front End Developer
 
-baseurl: ""
-url: ""
+baseurl: "testing"
+url: "hola@pablovester.com.ar"
 
 allowsearch: true
 
