@@ -1,17 +1,17 @@
 [
 	{
-		"name": "Ensueño",
+		"name": "Ensueño - Documental Web",
 		"image": "ensueno.png",
 		"url": "2018/11/08/ensueno.html",
 		"date": "Dec 2017",
 		"tags": ["AngularJS","HTML-CSS"]
 	},
 	{
-		"name": "Proyecto Matt Skibita",
-		"image": "drumkit.png",
-		"url": "2018/06/04/vesterprueba.html",
-		"date": "May 2014",
-		"tags": ["Vanilla JS","HTML-CSS"]
+		"name": "Vamos - Fundación Huésped",
+		"image": "vamos.png",
+		"url": "2018/11/09/vesterprueba.html",
+		"date": "Ene 2018",
+		"tags": ["AngularJS","HTML-CSS"]
 	},
 	{
 		"name": "Cool project 3",
