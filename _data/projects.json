@@ -14,11 +14,11 @@
 		"tags": ["AngularJS","HTML-CSS"]
 	},
 	{
-		"name": "Cool project 3",
-		"image": "bbw.jpg",
-		"url": "#",
-		"date": "June 2014",
-		"tags": ["HTML","JQuery"]
+		"name": "JS Drumkit",
+		"image": "drumkit.png",
+		"url": "2018/11/10/jsdrumkit.html",
+		"date": "Mar 2018",
+		"tags": ["Vanilla Javascript","HTML-CSS"]
 	},
 	{
 		"name": "Cool project 4",
