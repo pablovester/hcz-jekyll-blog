@@ -25,5 +25,10 @@
     "text": "Github",
     "url": "https://github.com/pablovester",
     "icon": "fa-github"
+  },
+  {
+    "text": "Contact",
+    "url": "hola@pablovester.com.ar",
+    "icon": "fa-envelope"
   }
 ]
