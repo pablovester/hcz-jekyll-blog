@@ -1,13 +1,13 @@
 [
 	{
-		"name": "Ensueño - Documental Web",
+		"name": "Ensueño",
 		"image": "ensueno.png",
 		"url": "2018/11/08/ensueno.html",
 		"date": "Dec 2017",
 		"tags": ["AngularJS","HTML-CSS"]
 	},
 	{
-		"name": "Vamos - Fundación Huésped",
+		"name": "Vamos",
 		"image": "vamos.png",
 		"url": "2018/11/09/vamos.html",
 		"date": "Jan 2018",
