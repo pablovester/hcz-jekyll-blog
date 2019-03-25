@@ -8,5 +8,5 @@ When deciding how to improve my JS skills, I got a recommendation from a friend 
 I figured it was a nice way to see code towards a goal and have things to show others, while at the same time learning new things!
 
 Click on the following image to test out the live version of the drumkit.
-[![Javascript Drumkit](drumkit.png)](/js-drumkit)
+[![Javascript Drumkit](/static/projects/drumkit.png](/js-drumkit)
 
