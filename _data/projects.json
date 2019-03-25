@@ -26,6 +26,13 @@
 		"url": "2018/11/07/cookunity.html",
 		"date": "Jun 2018",
 		"tags": ["HTML-CSS"]
+	},
+	{
+		"name": "Rick and Morty",
+		"image": "rickandmorty.png",
+		"url": "2019/03/17/rickandmorty.html",
+		"date": "March 2019",
+		"tags": ["HTML-CSS", "VueJS", "API Rest"]
 	}
 
 ]
